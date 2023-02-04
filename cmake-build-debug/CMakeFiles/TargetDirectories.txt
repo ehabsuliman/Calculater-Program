@@ -1,0 +1,3 @@
+/home/ehab/CLionProjects/Calculater_program/cmake-build-debug/CMakeFiles/Calculater_program.dir
+/home/ehab/CLionProjects/Calculater_program/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ehab/CLionProjects/Calculater_program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
